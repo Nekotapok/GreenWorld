@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\FARUKON\source\repos\GreenWorld\Player.h(20): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\FARUKON\source\repos\GreenWorld\World.h(6): error C2143: синтаксическая ошибка: отсутствие ";" перед "<class-head>"
+C:\Users\FARUKON\source\repos\GreenWorld\main.cpp(19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
