@@ -2,7 +2,7 @@
 #include <SFML/Graphics.hpp>
 using namespace sf;
 
-static class SpriteManager {
+class SpriteManager {
 public:
 	Image image;
 	Texture texture;
